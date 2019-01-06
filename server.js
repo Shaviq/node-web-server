@@ -68,7 +68,7 @@ MongoClient.connect('mongodb://localhost:27017/myApp', (err, client) => {
                 'cycling'
             ],
             nonlikes: [
-                'cigarettes'
+                'cigarettes hah!'
             ]
         });
     });
